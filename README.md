@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Kuaicha MCP Bridge" width="100%">
+  <img src="assets/banner.svg" alt="Kuaicha MCP Bridge" width="100%">
 </p>
 
 # Kuaicha MCP Bridge for Hermes Agent
